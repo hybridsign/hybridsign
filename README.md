@@ -12,4 +12,4 @@ Earlier Sign Language Production (SLP) models typically relied on autoregressive
 
 ## TODO
 - [ ] Release Paper
-- [ ] Release Code
+- [x] Release Code
